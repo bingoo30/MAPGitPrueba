@@ -11,7 +11,7 @@
             EscribeArray(v);
             //inicializar los arrays a 0
 
-            //otra forma, con los min y max
+            //otra forma, con los min y max 
 
         }
         static void Palomar(int[]v)
@@ -19,7 +19,7 @@
             int[] t = new int[Maximo(v) + 1];
             for (int i = 0; i < t.Length; i++)
             {
-                
+                //hola
             }
             RellenaTabla(v, t);
             ColocaArray(v, t);

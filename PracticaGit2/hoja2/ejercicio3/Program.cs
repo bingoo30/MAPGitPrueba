@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-            int[] v = { 0, 2, 1, 3, 4, 2, 3, 1, 2, 0, 3, 4 };
+            int[] v = { 0, 2, 1, 3, 4, 2, 3, 1, 2, 0, 3, 4 }; 
 
             EscribeArray(v);
            
             EscribeArray(v);
-            //inicializar los arrays a 0
+            //inicializar los arrays a 0 hola hola hola
 
-            //otra forma, con los min y max 
+            //otra forma, con los min y max hi
 
         }
         static void Palomar(int[]v)
@@ -19,7 +19,7 @@
             int[] t = new int[Maximo(v) + 1];
             for (int i = 0; i < t.Length; i++)
             {
-                //hola
+                //hola adios
             }
             RellenaTabla(v, t);
             ColocaArray(v, t);
@@ -50,6 +50,7 @@
                     v[cont] = i;
                     cont++;
                 }
+                //chao
             }
         }
         static void EscribeArray(int[] v)

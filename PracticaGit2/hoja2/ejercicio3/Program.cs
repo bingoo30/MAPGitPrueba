@@ -24,6 +24,7 @@
             }
             RellenaTabla(v, t);
             ColocaArray(v, t);
+            //aqui esta el tercer cambioo
         }
         static int Maximo(int[] v)
         {

@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // cambios para el conflicto tipo3
         static void Main(string[] args)
         {
             int[] v = { 0, 2, 1, 3, 4, 2, 3, 1, 2, 0, 3, 4 }; 

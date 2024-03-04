@@ -5,3 +5,4 @@ Aquí está el cambio del estudiante 1 :)
 
 Cambio para ultimo conflicto
 
+Nueva funcionalidad añadida: customización de los colores del juego.

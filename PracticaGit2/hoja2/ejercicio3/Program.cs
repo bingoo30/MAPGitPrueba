@@ -8,8 +8,8 @@
 
             EscribeArray(v);
            
-            EscribeArray(v);
-            //inicializar los arrays a 0 hola hola hola
+            EscribeArray(v); //0099999
+            //inicializar los arrays a 0
 
             //otra forma, con los min y max hi
 
